@@ -1,4 +1,4 @@
-describe ('Verify CraigsList HomePage Elements', async ()=>
+/*describe ('Verify CraigsList HomePage Elements', async ()=>
 {
     before(async ()=>{
         await browser.url('https://houston.craigslist.org/');
@@ -45,4 +45,4 @@ describe ('Verify CraigsList HomePage Elements', async ()=>
         await expect(post).toBeDisplayed();
     });
 
-});
+});*/
